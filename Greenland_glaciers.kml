@@ -1,0 +1,7304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+	<Document>
+		<name>Greenland Glaciers</name>
+		<LookAt>
+			<longitude>-42.50695000000000</longitude>
+			<latitude>71.67645000000000</latitude>
+			<altitude>0</altitude>
+			<range>3296387</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+		</LookAt>
+	<Placemark>
+    <name><![CDATA[Jakobshavn Isbræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>JakobshavnIsbræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>13255</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.1580</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.6580</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>90135</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.6580,69.1580</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangerlussuaq Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangerlussuaqGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>8141</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.6090</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.9700</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>95103</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.9700,68.6090</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Helheimgletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Helheimgletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>7492</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.3680</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-38.2130</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>50023</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-38.2130,66.3680</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Køge Bugt C]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KøgeBugtC</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>5240</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.1700</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.1640</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>18276</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.1640,65.1700</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Rink Isbræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>RinkIsbræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>4181</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>71.7590</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-51.6060</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>33171</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-51.6060,71.7590</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Store Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>StoreGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3678</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.4010</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.5490</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>30466</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.5490,70.4010</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Gyldenløve Fjord C]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>GyldenløveFjordC</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3519</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.2450</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.5880</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2457</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.5880,64.2450</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Daugaard-Jensen]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Daugaard-Jensen</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3513</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>71.9130</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.6150</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>49230</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.6150,71.9130</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Umiivik Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UmiivikFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3492</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.4890</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-40.6770</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1382</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-40.6770,64.4890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Uunartit Islands]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedUunartitIslands</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI67Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3371</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.4310</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-33.5280</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3099</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-33.5280,67.4310</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Deception Ø CN]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedDeceptionØCN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI67Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3368</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.6240</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-33.3990</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>7305</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-33.3990,67.6240</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[A.P. Bernstorff Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>A.P.BernstorffGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3162</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.8430</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.7340</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4400</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.7340,63.8430</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermeq Kujalleq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SermeqKujalleq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3056</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.9930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.1750</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>20667</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.1750,69.9930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Køge Bugt S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KøgeBugtS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>3056</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.9910</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.2370</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3249</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.2370,64.9910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Tingmiarmiut Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>TingmiarmiutFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI62Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2918</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.7420</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.3390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4852</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.3390,62.7420</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kong Oscar Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KongOscarGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2910</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.0180</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-59.6970</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>23485</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-59.6970,76.0180</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Alison Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>AlisonGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2905</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.6140</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-56.0810</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>14539</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-56.0810,74.6140</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Upernavik Isstrøm C]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UpernavikIsstrømC</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2899</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.9360</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-54.2930</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>13099</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-54.2930,72.9360</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Graulv]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Graulv</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2805</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.3540</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.5430</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>6238</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.5430,64.3540</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ukaasorsuaq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Ukaasorsuaq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2774</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.9580</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-48.7210</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>12134</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-48.7210,61.9580</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Illullip Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IllullipSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI74V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2666</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.4050</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-56.0490</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>22310</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-56.0490,74.4050</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Upernavik Isstrøm S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UpernavikIsstrømS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2546</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.8480</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-54.3100</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>8011</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-54.3100,72.8480</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Mogens Heinesen S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedMogensHeinesenS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI62Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2498</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.3390</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.1140</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1988</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.1140,62.3390</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south Hayes M]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthHayesM</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2352</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.7880</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-56.5670</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9259</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-56.5670,74.7880</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermeq Silarleq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SermeqSilarleq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2321</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.8200</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.7750</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>10830</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.7750,70.8200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Upernavik Isstrøm N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UpernavikIsstrømN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2318</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.0730</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-54.1660</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>22083</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-54.1660,73.0730</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Steenstrup Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SteenstrupGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2222</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.2890</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-57.9170</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>8537</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-57.9170,75.2890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sverdrup Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SverdrupGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2156</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.5870</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-58.1500</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>12625</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-58.1500,75.5870</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ikertivaq N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IkertivaqN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI65Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2131</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.6330</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-39.7260</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4032</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-39.7260,65.6330</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Qajuuttap Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>QajuuttapSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>W2009</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>2028</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.3720</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.7340</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>5398</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.7340,61.3720</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Mogens Heinesen N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedMogensHeinesenN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI62Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1999</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.5490</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.1000</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1358</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.1000,62.5490</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermeq Avannarleq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SermeqAvannarleq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1919</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.3490</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.3430</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>613</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.3430,69.3490</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Anorituup Kangerlua N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedAnorituupKangerluaN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1913</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.6290</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.1160</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2510</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.1160,61.6290</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Deception Ø CS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedDeceptionØCS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI67Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1894</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.5720</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-33.4670</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2513</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-33.4670,67.5720</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[K.I.V. Steenstrup Nodre Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>K.I.V.SteenstrupNodreBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1877</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.5080</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-34.5320</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3274</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-34.5320,66.5080</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangiata Nunaata Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangiataNunaataSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1860</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.2610</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.5570</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>19583</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.5570,64.2610</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Hayes Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HayesGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI74V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1857</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.9440</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-57.0570</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>7827</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-57.0570,74.9440</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Frederiksborg Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>FrederiksborgGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1824</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.2610</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-31.5510</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2338</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-31.5510,68.2610</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Heimdal Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HeimdalGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1790</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.8610</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.6160</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3064</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.6160,62.8610</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ikertivaq S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IkertivaqS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI65Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1776</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.5160</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-40.2080</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2266</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-40.2080,65.5160</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kakivfaat Sermiat]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KakivfaatSermiat</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI73V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1760</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.4890</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-55.4270</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>13822</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-55.4270,73.4890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kong Christian IV Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KongChristianIVGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1754</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.3840</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-30.0820</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>11090</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-30.0820,68.3840</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Herluf Trolle N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedHerlufTrolleN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1753</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.3300</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.3300</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>763</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.3300,61.3300</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Magga Dan Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MaggaDanGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1692</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.9520</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.2150</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4156</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.2150,69.9520</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Herluf Trolle S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedHerlufTrolleS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1685</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.2090</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.3080</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>507</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.3080,61.2090</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ikertivaq NN]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IkertivaqNN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI65Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1675</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.6790</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-39.6570</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2197</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-39.6570,65.6790</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangerlussuup Sermersua]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangerlussuupSermersua</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1649</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>71.4620</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-51.3180</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4979</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-51.3180,71.4620</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Vestfjord Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>VestfjordGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1628</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.3690</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-29.1720</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>10016</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-29.1720,70.3690</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Fenrisgletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Fenrisgletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1614</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.3640</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-37.5540</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4968</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-37.5540,66.3640</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Køge Bugt N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KøgeBugtN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1605</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.1960</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-40.7120</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2443</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-40.7120,65.1960</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Zachariae Isstrøm]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>ZachariaeIsstrøm</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1583</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>78.9150</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-20.5350</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>95103</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-20.5350,78.9150</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangilerngata Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangilerngataSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1533</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.8990</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.3470</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>7940</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.3470,69.8990</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermeq Avannarleq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SermeqAvannarleq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1523</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.0610</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.3190</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>7801</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.3190,70.0610</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ikertivaq M]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IkertivaqM</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI65Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1519</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.5970</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-40.0210</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>6819</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-40.0210,65.5970</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Puisortoq N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>PuisortoqN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1515</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.0590</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.5340</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1662</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.5340,62.0590</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nunatakassaap Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NunatakassaapSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI73V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1505</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.2280</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-55.1360</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4395</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-55.1360,73.2280</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kruuse Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KruuseFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI67Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1502</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.2190</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-33.8090</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1134</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-33.8090,67.2190</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Rimfaxe]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Rimfaxe</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1481</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.2330</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.2150</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2893</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.2150,63.2330</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Tracy Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>TracyGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1469</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.6470</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.1170</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2967</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.1170,77.6470</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Mogens Heinesen C]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedMogensHeinesenC</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI62Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1459</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.4900</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.0630</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>590</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.0630,62.4900</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Polaric Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>PolaricGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI67Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1445</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.8770</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.4970</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1261</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.4970,67.8770</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nansen Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NansenGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1441</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.7380</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-58.9100</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9704</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-58.9100,75.7380</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Narsap Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NarsapSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1408</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.6380</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.0180</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>6305</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.0180,64.6380</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Gyldenløve Fjord S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>GyldenløveFjordS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1386</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.1650</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.4910</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>422</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.4910,64.1650</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Laube S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedLaubeS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1350</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.7210</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-34.3180</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>691</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-34.3180,66.7210</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Qooqqup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>QooqqupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AWE2009</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1304</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.2030</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.1830</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2013</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.1830,61.2030</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ussing Bræer]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UssingBræer</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI73V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1290</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.8320</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-55.6120</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>10002</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-55.6120,73.8320</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Umiammakku Isbræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UmiammakkuIsbræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1281</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>71.7440</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-52.3930</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2296</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-52.3930,71.7440</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Heilprin Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HeilprinGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1269</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.5350</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.0290</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>8760</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.0290,77.5350</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangilleq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Kangilleq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>"ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>-2147483648</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>1217.00</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>70.7240</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>-50.618</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>-2147483648</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>70.7240,1217.00</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Gade Glacier]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>GadeGlacier</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1214</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3600</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-62.8060</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2958</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-62.8060,76.3600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[F. Graae Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>F.GraaeGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1212</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.1190</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.7130</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4958</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.7130,72.1190</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Mælkevejen]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Mælkevejen</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1210</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.7270</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.6770</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>912</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.6770,63.7270</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nioghalvfjerdsfjorden (79North)]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Nioghalvfjerdsfjorden(79North)</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1199</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>79.3310</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.5850</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>103278</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.5850,79.3310</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Dietrichson Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>DietrichsonGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1189</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.4560</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-57.9900</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>8537</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-57.9900,75.4560</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Eqalorutsit Killiit Sermiat]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>EqalorutsitKilliitSermiat</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1172</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.2890</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-46.1850</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2797</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-46.1850,61.2890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Køge Bugt SS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KøgeBugtSS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI64Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1165</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.8470</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.0900</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>528</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.0900,64.8470</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Petermann Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>PetermannGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972VII</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1103</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>80.5710</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-60.0960</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>73817</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-60.0960,80.5710</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Fimbulgletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Fimbulgletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1090</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.8840</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.4860</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>378</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.4860,63.8840</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Polaric S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedPolaricS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1080</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.7700</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-33.3910</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>550</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-33.3910,67.7700</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Anorituup Kangerlua C]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedAnorituupKangerluaC</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1075</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.5910</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.1500</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>518</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.1500,61.5910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Skinfaxe]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Skinfaxe</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1057</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.2720</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.8890</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2451</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.8890,63.2720</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kjer Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KjerGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1053</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.1320</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-57.8050</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>6430</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-57.8050,75.1320</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Deception Ø N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedDeceptionØN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI67Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1046</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.8460</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.6250</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>857</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.6250,67.8460</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Puisortoq S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>PuisortoqS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1035</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.9120</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.6150</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>706</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.6150,61.9120</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Kangerluluk]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedKangerluluk</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1034</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.1110</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.8900</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>561</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.8900,61.1110</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Kanger W]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedKangerW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>1018</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.5480</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.9300</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>529</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.9300,68.5480</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Inngia Isbræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>InngiaIsbræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>980</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.0330</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-52.6110</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4099</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-52.6110,72.0330</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Døcker Smith Gl. W]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>DøckerSmithGl.W</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>969</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3360</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-61.9200</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1036</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-61.9200,76.3360</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Eqip Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>EqipSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>958</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.7890</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.2390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1258</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.2390,69.7890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Borggraven]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Borggraven</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>935</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.6140</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.0770</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1138</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.0770,68.6140</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermiligaarssuk Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SermiligaarssukBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>932</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.5870</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-48.3230</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>5730</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-48.3230,61.5870</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Storbræ N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>StorbræN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>893</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.9580</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-25.9360</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>362</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-25.9360,68.9580</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Gerard de Geer Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>GerarddeGeerGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>885</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.5050</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.2660</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3216</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.2660,73.5050</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Avannarleq Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>AvannarleqBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>884</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.2270</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-48.9530</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>-295</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-48.9530,62.2270</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south Hayes N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthHayesN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>876</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.8660</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-56.7630</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4958</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-56.7630,74.8660</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Issuuarsuit Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IssuuarsuitSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>875</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.0480</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-60.6370</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>5273</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-60.6370,76.0480</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed near Upernavik]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamednearUpernavik</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>872</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.0360</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-54.5450</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2413</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-54.5450,73.0360</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Rolige Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>RoligeGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>869</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.5790</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.2950</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>12042</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.2950,70.5790</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Døcker Smith Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>DøckerSmithGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>865</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2500</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-61.7820</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1938</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-61.7820,76.2500</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Qeqertarsuup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>QeqertarsuupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI73V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>809</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.5830</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-55.5400</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4087</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-55.5400,73.5830</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kronborg Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KronborgGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>"AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>-2147483648</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>809.000</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>68.5050</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>-28.628</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>-2147483648</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>68.5050,809.000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Melville Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MelvilleGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>805</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.7500</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.6160</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1100</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.6160,77.7500</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Anorituup Kangerlua S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedAnorituupKangerluaS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>798</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.5040</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.9960</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>447</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.9960,61.5040</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south Hayes SS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthHayesSS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>790</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.7020</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-56.3350</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>6620</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-56.3350,74.7020</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ussing Bræer N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UssingBræerN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI73V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>771</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.9350</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-55.7020</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>5000</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-55.7020,73.9350</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed north Oscar]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamednorthOscar</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>767</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.0800</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-60.1390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1807</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-60.1390,76.0800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Danell Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedDanellFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>749</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>60.9370</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.5450</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>457</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.5450,60.9370</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[C.H. Ostenfeld Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>C.H.OstenfeldGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>740</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.5820</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.2010</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9360</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.2010,81.5820</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermilik Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SermilikBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>739</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.0240</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-46.9260</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1979</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-46.9260,61.0240</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Hagen Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HagenBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>737</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.4460</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.6150</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>6507</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.6150,81.4460</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Savissuaq Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SavissuaqGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>710</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3180</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-65.6090</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>515</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-65.6090,76.3180</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Berlingske Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>BerlingskeGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>692</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.9930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-69.5180</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>296</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-69.5180,76.9930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Yngvar Nielsen Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>YngvarNielsenBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>681</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3440</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-64.0840</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>780</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-64.0840,76.3440</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Akullersuup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>AkullersuupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>666</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.3590</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.5720</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1712</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.5720,64.3590</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Hayes Gletscher N']]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HayesGletscherN'</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI74V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>628</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.0240</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-57.6270</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1707</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-57.6270,75.0240</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Heim Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HeimGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>617</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.9860</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-38.5000</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>444</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-38.5000,65.9860</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Carlos Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>CarlosGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>609</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.4230</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-63.4310</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>127</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-63.4310,76.4230</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermilik]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Sermilik</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>"ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>-2147483648</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>583.000</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>70.6390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>-50.583</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>-2147483648</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>70.6390,583.000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Napasorsuaq S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedNapasorsuaqS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>571</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.6850</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.6660</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>52</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.6660,61.6850</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Midgårdgletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Midgårdgletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>565</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.4130</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-36.8250</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2810</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-36.8250,66.4130</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Napasorsuaq C]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedNapasorsuaqC</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>553</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.7440</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.8970</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>186</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.8970,61.7440</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Mogens Heinesen SSS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedMogensHeinesenSSS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI62Ø5</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>550</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.2660</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.5740</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>295</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.5740,62.2660</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Bredegletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Bredegletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>543</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.2370</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-25.2130</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1003</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-25.2130,70.2370</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Upernavik SS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UpernavikSS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>541</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.7820</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-54.2270</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>22272</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-54.2270,72.7820</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nordenskiöld Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NordenskiöldGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI75V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>533</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.8340</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-59.0730</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3540</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-59.0730,75.8340</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Glacier de France]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>GlacierdeFrance</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>519</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.4400</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-35.9300</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1083</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-35.9300,66.4400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Anorituup Kangerlua SS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedAnorituupKangerluaSS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>518</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.4430</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.6470</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>133</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.6470,61.4430</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Dendritgletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Dendritgletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>515</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.2970</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-25.2020</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2381</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-25.2020,69.2970</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Cornell Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>CornellGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI74V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>500</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.2390</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-56.0780</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2255</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-56.0780,74.2390</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Storbræ S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>StorbræS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>496</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.8730</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-26.1020</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>356</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-26.1020,68.8730</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kista Dan Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KistaDanGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>482</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.9570</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.4300</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2203</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.4300,69.9570</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Yngvar Nielsen Bræ W]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>YngvarNielsenBræW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>474</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3680</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-64.3620</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>538</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-64.3620,76.3680</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Lille Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>LilleGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>471</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.5230</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.5250</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1815</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.5250,70.5230</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Farquhar Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>FarquharGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>463</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.7240</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.2280</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>389</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.2280,77.7240</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sydbræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Sydbræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>445</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.1900</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-26.3210</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>840</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-26.3210,70.1900</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Rink Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>RinkGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>432</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2540</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-60.8930</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2661</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-60.8930,76.2540</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Styrtegletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Styrtegletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>426</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.6630</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.4120</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>478</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.4120,68.6630</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Humboldt Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HumboldtGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972VI</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>424</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>79.7060</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-64.2700</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>47310</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-64.2700,79.7060</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Napasorsuaq N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedNapasorsuaqN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>421</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.8420</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.8460</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>496</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.8460,61.8420</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Frederikshåbs Isblink]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>FrederikshåbsIsblink</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>411</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.7480</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.4940</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>5131</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.4940,62.7480</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Kanger E]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedKangerE</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>407</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.5250</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.8670</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>196</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.8670,68.5250</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed South Danell Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedSouthDanellFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI61Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>405</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>60.8490</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-43.6230</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>142</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-43.6230,60.8490</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Ryder Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>RyderGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>404</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.4730</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.2760</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>29788</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.2760,81.4730</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Bowdoin Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>BowdoinGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>401</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.6780</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-68.6300</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1015</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-68.6300,77.6780</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Savissuaq W]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SavissuaqW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>400</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2900</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.0860</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>196</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.0860,76.2900</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Mogens Heinesen SS]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedMogensHeinesenSS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI62Ø4</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>395</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.3920</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.7170</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>261</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.7170,62.3920</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south Russell]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthRussell</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>383</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.0460</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.8760</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9930</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.8760,67.0460</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Hubbard Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HubbardGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>376</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.6760</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-68.6250</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>258</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-68.6250,77.6760</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Savissuaq WWWW]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SavissuaqWWWW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>363</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.1910</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-67.5390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>425</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-67.5390,76.1910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Carlos Gletscher W]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>CarlosGletscherW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>347</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-63.5310</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>682</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-63.5310,76.3930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Laube Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>LaubeGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>345</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.9250</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-34.0920</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>64</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-34.0920,66.9250</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Knud Rasmussen]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KnudRasmussen</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>340</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.0880</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-36.3120</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>457</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-36.3120,66.0880</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sorgenfri Glacier]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SorgenfriGlacier</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>326</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.3070</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-30.8280</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>729</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-30.8280,68.3070</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Adolf Hoel Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>AdolfHoelGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>309</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.9510</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-25.8380</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>11119</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-25.8380,73.9510</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sharp Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SharpGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>287</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.7020</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.9600</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>259</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.9600,77.7020</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Vestfjord S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedVestfjordS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>286</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.0050</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.9770</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>781</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.9770,70.0050</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA["K.I.V. Steenstrup]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>"K.I.V.Steenstrup</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>SøndreBræ"</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>-2147483648</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>282.000</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>66.4690</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>-34.697</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>-2147483648</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>66.4690,282.000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Steensby Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SteensbyGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>276</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.4680</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-54.4130</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3735</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-54.4130,81.4680</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Dendritgletscher S]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedDendritgletscherS</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>268</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.2330</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-25.4390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>180</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-25.4390,69.2330</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Rosenborg Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>RosenborgGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>266</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.5090</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.9750</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>919</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.9750,68.5090</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Torvgletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Torvgletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>262</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.9490</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-23.0270</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>410</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-23.0270,69.9490</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Academy Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>AcademyGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>261</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.6280</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.3810</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>25279</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.3810,81.6280</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Qooqqup Sermia S']]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>QooqqupSermiaS'</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AWE2009</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>260</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.1970</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.0550</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>57</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.0550,61.1970</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangilinnguata Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangilinnguataSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>258</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.9080</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.8100</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9930</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.8100,64.9080</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south bis Russell]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthbisRussell</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>258</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.9080</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.8100</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3784</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.8100,64.9080</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Courtauld Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>CourtauldGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø3</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>252</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.5110</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.2050</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>263</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.2050,68.5110</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Saqqarliup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SaqqarliupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>251</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.8950</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.3240</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2451</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.3240,68.8950</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Brikkerne Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>BrikkerneGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>241</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.8160</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.6180</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>974</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.6180,81.8160</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nigerlikasik]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Nigerlikasik</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>231</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>62.0790</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-48.7560</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>396</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-48.7560,62.0790</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Savissuaq WWW]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SavissuaqWWW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>229</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2530</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-67.2970</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>177</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-67.2970,76.2530</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sioralik Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SioralikBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>213</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.5060</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-47.8130</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1475</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-47.8130,61.5060</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Qamanaarsuup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>QamanaarsuupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>211</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.4900</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.4520</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1712</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.4520,64.4900</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sortebræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Sortebræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>210</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.7650</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.0420</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>962</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.0420,68.7650</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Diebitsch Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>DiebitschGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>209</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.9420</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-71.6270</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>254</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-71.6270,77.9420</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south ter Russell]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthterRussell</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>200</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.8010</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.4100</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9930</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.4100,66.8010</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Harder Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HarderGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>197</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.6350</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-44.9660</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1358</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-44.9660,81.6350</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[South of Sermeq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SouthofSermeq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>195</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.6200</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.3190</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4608</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.3190,63.6200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Helland Gletscher E]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HellandGletscherE</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>194</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2830</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-64.6240</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>105</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-64.6240,76.2830</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Thrym Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>ThrymGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI63Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>193</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.5570</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.7760</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>315</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.7760,63.5570</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nakkaasorsuaq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Nakkaasorsuaq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>191</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.0600</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.6880</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>5131</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.6880,63.0600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Majorqaq]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Majorqaq</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>188</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.7710</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.2960</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9930</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.2960,65.7710</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Usulluup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UsulluupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>187</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.9800</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.1750</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>24137</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.1750,67.9800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south Arsuk]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthArsuk</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>185</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.1000</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.4020</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1475</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.4020,61.1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Jættegletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Jættegletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>185</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.4460</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.7230</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>10833</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.7230,73.4460</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Charcot Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>CharcotGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>177</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.0710</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-29.4090</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>589</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-29.4090,72.0710</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Steno Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>StenoBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>175</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.9290</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-23.9470</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>503</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-23.9470,69.9290</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nordenskiöld Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NordenskiöldGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>173</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.4030</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.4960</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>13602</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.4960,68.4030</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Saqqap Sermersua]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SaqqapSermersua</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>169</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>65.2890</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.4150</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9930</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.4150,65.2890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Wordie Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>WordieGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>168</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.5200</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-23.8340</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>18357</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-23.8340,74.5200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangerluarsuup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangerluarsuupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI71V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>167</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>71.2490</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-51.4850</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1133</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-51.4850,71.2490</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Savissuaq WW]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SavissuaqWW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>165</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.3190</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.8260</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>142</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.8260,76.3190</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Morell Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MorellGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>160</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2780</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-62.5250</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>112</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-62.5250,76.2780</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nordenskiöld Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NordenskiöldGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>157</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.1170</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.0500</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4570</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.0500,73.1170</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Verhoeff Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>VerhoeffGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>149</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.8530</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-69.9230</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>463</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-69.9230,77.8530</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Inuppaat Quuat]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>InuppaatQuuat</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>147</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.5360</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.8600</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>11533</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.8600,67.5360</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kangaasarsuup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KangaasarsuupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>146</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>64.0910</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.5220</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4608</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.5220,64.0910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kaarale Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KaaraleGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI66Ø2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>141</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.0930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-36.6910</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>183</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-36.6910,66.0930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA["Unnamed Steenstrup]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>"UnnamedSteenstrup</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>SøndreBræS"</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>-2147483648</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>137.000</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>66.3770</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>-35.271</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>-2147483648</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>66.3770,137.000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Violingletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Violingletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>133</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.3730</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.1120</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1308</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.1120,72.3730</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Jungersen]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Jungersen</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>124</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>82.0270</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-42.0410</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1193</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-42.0410,82.0270</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermeq (glacier in Sermilik ice fjord)]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Sermeq(glacierinSermilikicefjord)</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>124</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>63.5900</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.1270</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>4608</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.1270,63.5900</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Arsuk Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>ArsukBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>124</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.3140</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-47.7420</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1475</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-47.7420,61.3140</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kiattuut Sermiat]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KiattuutSermiat</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>124</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>61.3340</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.1420</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>57</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.1420,61.3340</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Isunnguata Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>IsunnguataSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>122</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.1850</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.0010</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>7208</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.0010,67.1850</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed south qua Russell]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedsouthquaRussell</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>115</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.4560</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.4210</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>9930</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.4210,66.4560</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Knud W]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedKnudW</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>114</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>66.0860</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-36.5540</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>93</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-36.5540,66.0860</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Hare Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedHareFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>114</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>70.9700</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.3450</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>0</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.3450,70.9700</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Morris Jesup Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MorrisJesupGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>110</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.8860</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-71.1600</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>408</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-71.1600,77.8860</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed west of Ostenfeld]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedwestofOstenfeld</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>106</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.5690</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-45.8670</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1721</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-45.8670,81.5690</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Hisinger Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HisingerGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>105</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.8340</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.5790</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2481</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.5790,72.8340</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Russell Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>RussellGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK(americanname)</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>103</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>67.0940</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-49.9550</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>7208</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-49.9550,67.0940</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Leidy Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>LeidyGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>101</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.2600</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.0850</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3237</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.0850,77.2600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Waltershausen Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>WaltershausenGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>100</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>73.8120</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-24.2440</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>15361</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-24.2440,73.8120</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Wahlenberg Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>WahlenbergGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>96</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>72.6130</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-28.0900</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>884</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-28.0900,72.6130</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Helland Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HellandGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>95</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.1910</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-64.8800</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>220</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-64.8800,76.1910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Marie Sophie Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MarieSophieGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>74</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.7840</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.8720</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3539</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.8720,81.7840</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Knud Rasmussen Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>KnudRasmussenGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>74</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.7120</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-67.9250</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>253</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-67.9250,76.7120</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Alangorliup Sermia]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>AlangorliupSermia</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>ABK</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>68</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.9430</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-50.2320</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2636</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-50.2320,68.9430</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Harald Moltke Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HaraldMoltkeBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>63</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.5930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-67.8210</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1523</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-67.8210,76.5930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Tvegegletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Tvegegletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>62</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.8850</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.9570</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>420</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.9570,74.8850</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Mohn Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MohnGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>59</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2380</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-63.6280</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>108</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-63.6280,76.2380</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Hart Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HartGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>58</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.6820</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-67.1460</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>158</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-67.1460,77.6820</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Henson Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HensonGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>53</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>82.2620</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-40.1450</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>1519</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-40.1450,82.2620</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Storstrømmen]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Storstrømmen</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>51</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.7180</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.3390</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>59367</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.3390,76.7180</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Heinkel Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>HeinkelGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>48</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.1750</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.9060</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>963</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.9060,75.1750</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Chamberlin Glestscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>ChamberlinGlestscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI76V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>48</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.6910</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-68.3520</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>311</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-68.3520,76.6910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Soranerbræen Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>SoranerbræenGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>48</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.1930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-21.8460</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2296</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-21.8460,76.1930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Dodge Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>DodgeGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972VI</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>46</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>78.1740</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-72.6760</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>49</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-72.6760,78.1740</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Eielson Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>EielsonGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>36</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>71.1370</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-27.8800</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3050</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-27.8800,71.1370</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Pasterze]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Pasterze</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>26</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>74.7690</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.7120</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>132</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.7120,74.7690</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Unnamed Dendritgletscher N]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>UnnamedDendritgletscherN</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V1</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>25</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.4830</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-24.8260</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>67</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-24.8260,69.4830</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Nordfjord Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NordfjordGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI68Ø4</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>22</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>68.6460</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-32.6030</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>541</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-32.6030,68.6460</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Pitugfik Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>PitugfikGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value></value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>21</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.2220</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-68.8400</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>177</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-68.8400,76.2220</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Bartholin Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>BartholinBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>17</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>69.5930</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-23.9940</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>544</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-23.9940,69.5930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Einar Mikkelsen Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>EinarMikkelsenGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>14</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>75.5710</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.4700</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>3705</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.4700,75.5710</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Naravana Fjord]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NaravanaFjord</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>14</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>82.3500</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-41.8470</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>LT</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>755</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-41.8470,82.3500</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Storm Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>StormGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>13</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>78.1410</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-72.7710</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>67</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-72.7710,78.1410</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Marie Gletscher]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>MarieGletscher</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>11</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.1960</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.0870</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>0</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.0870,77.1960</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Kofoed-Hansen Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Kofoed-HansenBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>8</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.5280</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-21.8330</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>2231</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-21.8330,77.5280</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Newman Bugt]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>NewmanBugt</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>Larsen1972</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>7</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>81.3300</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-57.2870</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>301</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-57.2870,81.3300</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[L. Bistrup Bræ]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>L.BistrupBræ</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>AKH</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>6</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>76.6410</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-22.6960</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>24080</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-22.6960,76.6410</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+    <name><![CDATA[Sermiarsupaluk (glacier)]]></name>
+    <ExtendedData>
+      <Data name="NAME">
+            <value>Sermiarsupaluk(glacier)</value>
+      </Data>
+      <Data name="REFERENCE">
+            <value>GI77V2</value>
+      </Data>
+      <Data name="SPEED[M/YR]">
+            <value>5</value>
+      </Data>
+      <Data name="LATITUDE">
+            <value>77.0840</value>
+      </Data>
+      <Data name="LONGITUDE">
+            <value>-66.2220</value>
+      </Data>
+      <Data name="GLACIERTYPE">
+            <value>TW</value>
+      </Data>
+      <Data name="DRAINAGEAREA[KM2]">
+            <value>507</value>
+      </Data>
+        </ExtendedData>
+
+		<Point>
+			<coordinates>-66.2220,77.0840</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
